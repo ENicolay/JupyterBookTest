@@ -3,6 +3,6 @@ root: index
 parts:
   - caption: "Basics"
     chapters:
-      - file: chapter_1/1-test.md
-      - file: chapter_1/1-test.ipynb
+      - file: chapter_1/test2.md
+      - file: chapter_1/test1.ipynb
       
