@@ -1,7 +1,9 @@
 # High-content imaging workflow for automated region and cell detection
 This repository contains multiple notebooks that can be used to prepare images, train and apply a predicition model (modified from [nn-Unet](https://github.com/mic-dkfz/nnunet) and peform cell segmentation in 3D.
 
-Follow this link to the website: https://enicolay.github.io/JupyterBookTest/intro.html#
+Follow this link to the website: 
+https://enicolay.github.io/JupyterBookTest/intro.html#
+
 It is maintained using [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/) and build using [Jupyter book](https://jupyterbook.org/intro.html).
 
 This workflow was designed for high-content imaging data (96-well plate data A01-H12) with raw image filenames structured like this:
